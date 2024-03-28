@@ -5,6 +5,10 @@
 - Reactjs
 - Vite
 - Shadcn/ui
+- ESLint
+- Prettier
+- React Router 
+
 
 
 
