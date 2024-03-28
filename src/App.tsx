@@ -1,5 +1,5 @@
 import { Button } from './components/ui/button'
-import './globals.css'
+import "./globals.css"
 
 export function App() {
   return (
@@ -8,5 +8,6 @@ export function App() {
     </div>
   )
 }
+
 
 
