@@ -4,3 +4,8 @@
 
 - Reactjs
 - Vite
+- Shadcn/ui
+
+
+
+
