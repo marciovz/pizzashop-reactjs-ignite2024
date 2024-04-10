@@ -19,3 +19,8 @@ Pizza shop é um aplicativo para gerenciamento de uma pizzaria, construído dura
 - Magic link
 
 
+## Rodar Projeto
+
+```cmd
+npm run dev
+```
