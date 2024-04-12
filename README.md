@@ -13,10 +13,12 @@ Pizza shop é um aplicativo para gerenciamento de uma pizzaria, construído dura
 - React Router 
 - React Relmet
 - Sonner (toast)
+- Recharts (gráficos)
 
 
 ## Funcionalidades
 - Magic link
+- Gráficos
 
 
 ## Rodar Projeto
