@@ -17,6 +17,7 @@ Pizza shop é um aplicativo para gerenciamento de uma pizzaria, construído dura
 - axios
 - zod
 - React Query
+- Skeleton
 
 
 ## Funcionalidades
@@ -24,6 +25,7 @@ Pizza shop é um aplicativo para gerenciamento de uma pizzaria, construído dura
 - Gráfico Linear
 - Gráfico Pizza
 - Cache de requisições
+- Interceptors API
 
 
 ## Instalação e configuração o backend da aplicação
