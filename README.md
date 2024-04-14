@@ -21,8 +21,34 @@ Pizza shop é um aplicativo para gerenciamento de uma pizzaria, construído dura
 - Gráficos
 
 
+
+## Instalação e configuração o backend da aplicação
+
+```sh
+# clonar o projeto do backend
+git clone git@github.com:rocketseat-education/pizzashop-api.git
+
+# subir um banco de dados postgres com docker
+docker compose up -d
+
+# instalar as dependências do projeto backend
+bun install
+
+# rodar as migrações do banco de dados
+# obs.: adicionar qualquer caracter na variável de ambiente RESEND_API_KEY em env.local
+bun migrate
+
+# rodar o seed
+# obs.: alterar o email de administrador para o seu email ou um fictício
+bun seed
+
+# rodar o backend da aplicação
+bun dev
+```
+
 ## Rodar Projeto
 
-```cmd
+```sh
+# rodar o frontend da aplicação
 npm run dev
 ```
