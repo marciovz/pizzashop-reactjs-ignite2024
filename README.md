@@ -22,6 +22,7 @@ Pizza shop é um aplicativo para gerenciamento de uma pizzaria, construído dura
 - Testing Library
 - Happy dom (alternativa jsdom)
 - MSW (Mockin Service Worker)
+- Playwright (end-to-end)
 
 
 ## Funcionalidades
